@@ -16,21 +16,21 @@ Records : Company-level layoff events
 
 Key Columns :
 
-company
-location
-industry
-total_laid_off
-percentage_laid_off
-date
-stage
-country
-funds_raised_millions
+* company
+* location
+* industry
+* total_laid_off
+* percentage_laid_off
+* date
+* stage
+* country
+* funds_raised_millions
 
 **Tools & Skills Used**
 
-SQL (MySQL)
-Excel Visualization
-Analytical Thinking
+* SQL (MySQL)
+* Excel Visualization
+* Analytical Thinking
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
