@@ -76,3 +76,12 @@ The analysis shows that companies with high funding still contribute significant
 **Conclusion**
 
 Overall, this Exploratory Data Analysis aims to provide a comprehensive understanding of the key factors influencing global layoffs. The analysis shows that layoffs are not solely influenced by funding levels, but rather by a combination of industry factors, geographic location, economic cycle, and company growth stage. With this understanding, the dataset is ready for further analysis and the development of data-driven strategic recommendations.
+
+**Actions**
+
+* Management needs to shift its focus from fundraising to operational efficiency, particularly: Burn rate, Cost per employee, Revenue per employee
+* Periodically review the cost structure, especially after an aggressive expansion phase.
+* Use of flexible labor (contract / project-based)
+* Large company management needs:
+  1. Early warning systems based on workforce KPIs
+  2. Evaluate human resource needs before major expansion
